@@ -44,5 +44,5 @@ inner join HumanResources.Employee
 	on Person.BusinessEntityID = Employee.BusinessEntityID
 inner join HumanResources.EmployeePayHistory 
 	on Employee.BusinessEntityID = EmployeePayHistory.BusinessEntityID
-order by [Rate] desc
+order by [Perfect of Max Rate]  desc
 
