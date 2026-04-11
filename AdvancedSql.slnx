@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Default" />
+    <Platform Name="Default" />
+  </Configurations>
+  <Folder Name="/Window Functions/">
+    <File Path="S02x08 over window functions.sql" />
+    <File Path="S02x09 Exercise over window functions.sql" />
+    <File Path="S02x10 partition by window functions.sql" />
+    <File Path="S02x11 Exercise partition by window functions.sql" />
+    <File Path="S02x14 Example Rank and Rank Dense.sql" />
+  </Folder>
+</Solution>
