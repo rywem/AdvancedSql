@@ -3,11 +3,16 @@
     <BuildType Name="Default" />
     <Platform Name="Default" />
   </Configurations>
-  <Folder Name="/Window Functions/">
-    <File Path="S02x08 over window functions.sql" />
-    <File Path="S02x09 Exercise over window functions.sql" />
-    <File Path="S02x10 partition by window functions.sql" />
-    <File Path="S02x11 Exercise partition by window functions.sql" />
+  <Folder Name="/Window Functions/" />
+  <Folder Name="/Window Functions/Examples/">
+    <File Path="S02x08 Example over window functions.sql" />
+    <File Path="S02x10 Example partition by window functions.sql" />
     <File Path="S02x14 Example Rank and Rank Dense.sql" />
+  </Folder>
+  <Folder Name="/Window Functions/Exercises/">
+    <File Path="S02x013 ROW_NUMBER .sql" />
+    <File Path="S02x09 Exercise over window functions.sql" />
+    <File Path="S02x11 Exercise partition by window functions.sql" />
+    <File Path="S02x14 Exercise RANK and RANK DENSE.sql" />
   </Folder>
 </Solution>
