@@ -8,6 +8,7 @@
     <File Path="S02x08 Example over window functions.sql" />
     <File Path="S02x10 Example partition by window functions.sql" />
     <File Path="S02x14 Example Rank and Rank Dense.sql" />
+    <File Path="S02x16 Example LEAD and LAG.sql" />
   </Folder>
   <Folder Name="/Window Functions/Exercises/">
     <File Path="S02x013 ROW_NUMBER .sql" />
